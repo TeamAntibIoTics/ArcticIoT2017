@@ -1,0 +1,5 @@
+d:\Profiles\msolberg\Source\Repos\NO-BU628-IoT\Ariot2017\Antibiotics.DataModel\Antibiotics.DataModel\bin\Debug\Antibiotics.DataModel.dll
+d:\Profiles\msolberg\Source\Repos\NO-BU628-IoT\Ariot2017\Antibiotics.DataModel\Antibiotics.DataModel\bin\Debug\Antibiotics.DataModel.pdb
+d:\Profiles\msolberg\Source\Repos\NO-BU628-IoT\Ariot2017\Antibiotics.DataModel\Antibiotics.DataModel\obj\Debug\Antibiotics.DataModel.csprojResolveAssemblyReference.cache
+d:\Profiles\msolberg\Source\Repos\NO-BU628-IoT\Ariot2017\Antibiotics.DataModel\Antibiotics.DataModel\obj\Debug\Antibiotics.DataModel.dll
+d:\Profiles\msolberg\Source\Repos\NO-BU628-IoT\Ariot2017\Antibiotics.DataModel\Antibiotics.DataModel\obj\Debug\Antibiotics.DataModel.pdb

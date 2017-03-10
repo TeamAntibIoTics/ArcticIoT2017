@@ -1,0 +1,14 @@
+﻿{
+  "ThunderBoard": {
+    "DeviceId": "123456",
+    "Timestamp": "2012-04-23T18:25:43.1234567Z",
+    "Measurements": {
+      "Measurement": [
+        {
+          "Value": "15.3",
+          "Type": "Temperature"
+        }
+      ]
+    }
+  }
+}

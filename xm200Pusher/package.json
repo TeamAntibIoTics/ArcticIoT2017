@@ -1,0 +1,16 @@
+{
+  "name": "xm200pusher",
+  "version": "1.0.0",
+  "description": "Datapusher for XM200 data from file to Azure Event Hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-event-hubs": "0.0.6",
+    "csv": "^1.1.1",
+    "guid": "0.0.12"
+  }
+}

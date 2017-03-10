@@ -1,0 +1,2 @@
+d:\Profiles\msolberg\Source\Repos\NO-BU628-IoT\Ariot2017\Antibiotics.DataModel\Antibiotics.DataModel\Antibiotics.DataModel.csproj;neutral
+d:\Profiles\msolberg\Source\Repos\NO-BU628-IoT\Ariot2017\Antibiotics.Thunderboard\Antibiotics.Thunderboard\Antibiotics.Thunderboard.csproj;x86
