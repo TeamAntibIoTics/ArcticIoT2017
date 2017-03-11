@@ -1,5 +1,5 @@
 #AntibIoTics code repository for the Arctic IoT 2017
-The AntibIoTics solution is a climate and sleep monitoring solution, integration sensor components with the cloud for a BigData, scalable architecture, leveraging many of the central components of Azure.
+The AntibIoTics solution is a climate and sleep monitoring solution, integrating sensor components with the cloud for a BigData, scalable architecture, leveraging many of the central components of Azure.
 
 The sleep monitoring part uses a X2M200 Novelda sensor, recording the slightest movement by Doppler-radar technology. It is connected by USB to a device (either Win IoT Core/Linux) where the C++ application XeThru samples and records the events as single files.
 The climate monitoring solution uses Silicon Labs Thunderboard Sense to sample data regarding temperature, humidity, carbon dioxide, sound level and light. Both sensor systems have its data pushed to the cloud where Azure Event Hubs functions as the data ingestion component. From here the data flow is diverged to cold and hot paths, i.e blob, table storage and a streaming dataset connected to PowerBI.
